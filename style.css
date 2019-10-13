@@ -1,0 +1,58 @@
+/*
+style.css
+---------
+
+Par behiraux
+*/
+
+h1
+{
+	color: red; /* Les paragraphes seront en vert */
+	font-size: 40px;
+	font-family: Arial Black;
+}
+
+em
+{
+	font-size: 40px;
+	font-family: Georgia;
+}
+
+.transparent
+{
+	opacity: 0.6;
+	height: 10;
+}
+
+body
+{
+	background-image: url("https://parischeridiary.files.wordpress.com/2017/09/marble_desktop1.png?w=7800");
+	background-size: 100%;
+	background-color: black;
+}
+
+h2
+{
+	color: blue;
+	font-size: 35px;
+	font-family: Arial Black;
+}
+
+h3
+{
+	color: green;
+	font-size: 30px;
+	font-family: Arial Black;
+}
+
+h4
+{
+	color: purple;
+	font-size: 25px;
+	font-family: Arial Black;
+}
+
+.simple
+{
+	color: blue;
+}
